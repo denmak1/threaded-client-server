@@ -1,2 +1,2 @@
 # threaded-client-server
-Multi-threaded client-server transaction handler, ~2017
+Multi-threaded client-server transaction handler using sockets, ~2017

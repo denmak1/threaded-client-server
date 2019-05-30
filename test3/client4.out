@@ -1,0 +1,204 @@
+client: loading transactions from ./test3/Transactions.txt
+client: done
+client: send 2 3 w 3769
+client: transaction success, new balance = 7942
+client: send 3 1 w 1513
+client: transaction failed, balance unchanged
+client: send 4 1 w 3247
+client: transaction failed, balance unchanged
+client: send 9 4 d 967
+client: transaction success, new balance = 12789
+client: send 12 4 w 4965
+client: transaction success, new balance = 7824
+client: send 17 5 d 2727
+client: transaction success, new balance = 17915
+client: send 19 3 d 4193
+client: transaction success, new balance = 13831
+client: send 21 4 d 3369
+client: transaction success, new balance = 25439
+client: send 22 2 d 3461
+client: transaction success, new balance = 31651
+client: send 24 2 w 3388
+client: transaction success, new balance = 28263
+client: send 28 4 d 4383
+client: transaction success, new balance = 20077
+client: send 33 1 d 3593
+client: transaction success, new balance = 14542
+client: send 35 4 w 4893
+client: transaction success, new balance = 15688
+client: send 38 1 d 4313
+client: transaction success, new balance = 22444
+client: send 40 3 d 4242
+client: transaction success, new balance = 20505
+client: send 42 1 d 1960
+client: transaction success, new balance = 24533
+client: send 46 3 w 4434
+client: transaction success, new balance = 33365
+client: send 48 1 w 4703
+client: transaction success, new balance = 26431
+client: send 52 1 d 2739
+client: transaction success, new balance = 29166
+client: send 55 5 d 3113
+client: transaction success, new balance = 70513
+client: send 58 5 w 284
+client: transaction success, new balance = 63994
+client: send 59 2 w 3297
+client: transaction success, new balance = 20899
+client: send 64 5 w 1953
+client: transaction success, new balance = 62714
+client: send 68 2 d 2047
+client: transaction success, new balance = 9925
+client: send 71 5 w 2045
+client: transaction success, new balance = 65939
+client: send 72 2 w 1448
+client: transaction success, new balance = 9240
+client: send 73 3 d 3366
+client: transaction success, new balance = 78108
+client: send 74 3 d 622
+client: transaction success, new balance = 78489
+client: send 76 4 w 1141
+client: transaction success, new balance = 16060
+client: send 81 5 d 3994
+client: transaction success, new balance = 113787
+client: send 85 5 d 3609
+client: transaction success, new balance = 123546
+client: send 88 4 d 4130
+client: transaction success, new balance = 32342
+client: send 89 3 w 2502
+client: transaction success, new balance = 63542
+client: send 93 2 w 1320
+client: transaction success, new balance = 4185
+client: send 98 3 d 447
+client: transaction success, new balance = 69990
+client: send 103 4 w 1703
+client: transaction success, new balance = 23030
+client: send 104 5 d 1940
+client: transaction success, new balance = 128527
+client: send 106 2 w 3103
+client: transaction failed, balance unchanged
+client: send 110 1 w 4592
+client: transaction success, new balance = 93155
+client: send 114 4 w 3421
+client: transaction success, new balance = 5636
+client: send 118 3 d 2894
+client: transaction success, new balance = 118630
+client: send 123 1 d 4038
+client: transaction success, new balance = 104645
+client: send 125 5 d 3519
+client: transaction success, new balance = 248827
+client: send 127 1 d 1917
+client: transaction success, new balance = 83922
+client: send 132 3 d 3832
+client: transaction success, new balance = 145973
+client: send 137 1 w 3703
+client: transaction success, new balance = 48956
+client: send 138 4 d 506
+client: transaction success, new balance = 3976
+client: send 139 5 d 67
+client: transaction success, new balance = 275564
+client: send 144 1 w 1691
+client: transaction success, new balance = 56849
+client: send 148 5 d 2594
+client: transaction success, new balance = 296730
+client: send 149 3 w 1750
+client: transaction success, new balance = 186367
+client: send 150 3 w 1662
+client: transaction success, new balance = 189653
+client: send 153 1 w 3915
+client: transaction success, new balance = 47645
+client: send 156 3 d 3804
+client: transaction success, new balance = 201709
+client: send 159 4 d 735
+client: transaction success, new balance = 3145
+client: send 164 4 w 128
+client: transaction success, new balance = 10470
+client: send 169 4 d 1041
+client: transaction success, new balance = 7962
+client: send 172 3 d 1037
+client: transaction success, new balance = 190930
+client: send 174 1 d 3303
+client: transaction success, new balance = 24022
+client: send 179 3 w 873
+client: transaction success, new balance = 188562
+client: send 184 1 w 1588
+client: transaction success, new balance = 3964
+client: send 185 3 w 3255
+client: transaction success, new balance = 203518
+client: send 190 3 w 1843
+client: transaction success, new balance = 206203
+client: send 192 2 w 34
+client: transaction success, new balance = 4504
+client: send 193 1 w 570
+client: transaction success, new balance = 4204
+client: send 194 1 d 3589
+client: transaction success, new balance = 7181
+client: send 198 2 d 1232
+client: transaction success, new balance = 1447
+client: send 203 4 d 1633
+client: transaction success, new balance = 55639
+client: send 204 1 w 2282
+client: transaction failed, balance unchanged
+client: send 208 3 d 4166
+client: transaction success, new balance = 200060
+client: send 213 5 d 2943
+client: transaction success, new balance = 391218
+client: send 216 4 d 2550
+client: transaction success, new balance = 82690
+client: send 218 4 d 3734
+client: transaction success, new balance = 88846
+client: send 222 2 w 2896
+client: transaction failed, balance unchanged
+client: send 224 2 w 2591
+client: transaction failed, balance unchanged
+client: send 227 5 d 2517
+client: transaction success, new balance = 398270
+client: send 230 3 w 1730
+client: transaction success, new balance = 205751
+client: send 232 1 w 694
+client: transaction success, new balance = 6792
+client: send 236 2 w 1264
+client: transaction failed, balance unchanged
+client: send 239 1 w 2794
+client: transaction failed, balance unchanged
+client: send 244 5 w 3673
+client: transaction success, new balance = 426564
+client: send 246 5 d 2622
+client: transaction success, new balance = 429186
+client: send 250 4 w 2343
+client: transaction success, new balance = 130521
+client: send 251 5 w 1566
+client: transaction success, new balance = 431406
+client: send 254 3 d 2709
+client: transaction success, new balance = 209847
+client: send 258 5 d 4616
+client: transaction success, new balance = 445267
+client: send 263 2 d 1484
+client: transaction success, new balance = 5782
+client: send 266 1 d 3187
+client: transaction success, new balance = 7998
+client: send 269 2 w 3407
+client: transaction failed, balance unchanged
+client: send 273 4 d 979
+client: transaction success, new balance = 98553
+client: send 276 1 w 4107
+client: transaction failed, balance unchanged
+client: send 277 1 d 1915
+client: transaction success, new balance = 2447
+client: send 280 2 w 2861
+client: transaction failed, balance unchanged
+client: send 284 3 w 1236
+client: transaction success, new balance = 226558
+client: send 285 5 d 769
+client: transaction success, new balance = 482231
+client: send 287 4 w 3848
+client: transaction success, new balance = 91331
+client: send 288 4 w 4271
+client: transaction success, new balance = 83212
+client: send 290 2 w 4278
+client: transaction failed, balance unchanged
+client: send 294 4 w 1299
+client: transaction success, new balance = 69409
+client: send 295 4 w 1781
+client: transaction success, new balance = 58210
+client: done, 88/100 successful transactions
+time per transaction: 0.000030
